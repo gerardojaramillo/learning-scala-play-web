@@ -6,4 +6,8 @@ target
 /.classpath
 /.project
 /.settings
+.bloop/
+.metals/
+.scalafmt.conf
+.vscode/
 /RUNNING_PID
